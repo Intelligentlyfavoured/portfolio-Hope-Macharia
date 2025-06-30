@@ -4,7 +4,7 @@
 
 - **Full Name**: Hope Macharia  
 - **GitHub Username**: IntelligentlyFavoured  
-- **Email**: hope.macharia@example.com  
+- **Email**: hope.macharia@gmail.com  
 
 ## 2. Deployed Portfolio Link
 
